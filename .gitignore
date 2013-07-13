@@ -218,3 +218,5 @@ pip-log.txt
 *.txt
 *.mat
 *.jpg
+*.asv
+*.bin
